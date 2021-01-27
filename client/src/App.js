@@ -1,5 +1,5 @@
 import './App.css';
-import Hello from './components/hello';
+import Hello from './components/Hello';
 
 const App = () => {
   return (
