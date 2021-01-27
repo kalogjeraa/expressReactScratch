@@ -1,11 +1,12 @@
 import './App.css';
+import Hello from './components/hello';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      app
+      <Hello />
     </div>
   );
-}
+};
 
 export default App;
